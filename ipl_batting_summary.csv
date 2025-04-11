@@ -1,0 +1,6 @@
+match,teamInnings,battingPos,batsmanName,runs,balls,4s,6s,SR,out/not_out,match_id
+MI Vs CSK,Mumbai Indians,1,Rohit Sharma,75,45,8,4,166.67,out,IPL2025-MI-CSK
+CSK Vs MI,Chennai Super Kings,4,MS Dhoni,45,20,3,4,225,not_out,IPL2025-CSK-MI
+PBKS Vs RR,Punjab Kings,2,Shikhar Dhawan,60,50,5,2,120,out,IPL2024-PBKS-RR
+RCB Vs SRH,Royal Challengers Bangalore,3,Virat Kohli,82,54,9,3,151.85,out,IPL2024-RCB-SRH
+GT Vs DC,Gujarat Titans,1,Shubman Gill,90,52,10,4,173.08,not_out,IPL2024-GT-DC
